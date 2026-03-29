@@ -95,5 +95,3 @@ jupyter notebook
 * Build a simple frontend for visualization
 
 ---
-
-, I can make it even sharper for **placements (resume-focused version)** — slightly more impact, still natural.
